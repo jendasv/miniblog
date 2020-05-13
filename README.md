@@ -28,7 +28,7 @@ Features
 ## how to get this blog working?
 1. in folder _inc unzip vendor.zip inside (folder vendor must be inside)
 2. import miniblog.sql to you db server
-3. in file _inc/config.php set your base url or localhost adress (for example http://localhost/miniblog)
+3. in file _inc/config.php set your base url or localhost adress (for example "http://localhost/miniblog")
 4. .htaccess set the root folder (for example /miniblog/) 
 5. in file _inc/config.php check database settings array with yours data
 6. NEVER EVER EXECUTE COMPOSER UPDATE!!!!! I have made changes PHPAuth, if you want to use another technology make backup of it!!!!
