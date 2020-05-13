@@ -1,0 +1,12 @@
+9. 04. 2020, 11:14
+--------------------------------
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'miniblog.cabbage' doesn't exist
+ in [ C:\xampp\htdocs\miniblog\_inc\config.php : 55 ] 
+
+
+9. 04. 2020, 11:14
+--------------------------------
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'miniblog.cabbage' doesn't exist
+ in [ C:\xampp\htdocs\miniblog\_inc\config.php : 55 ] 
+
+
