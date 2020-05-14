@@ -15,7 +15,7 @@
 ?>
 
     <section class="box post-list">
-        <h1 class="box-heading text-muted">this is a blog, bitch</h1>
+        <h1 class="box-heading text-muted">this is a blog</h1>
         <?php if (count($result)) : foreach ( $result as $post) : ?>
             <?php
             if ($comments = get_post_comments( $post->id ))
